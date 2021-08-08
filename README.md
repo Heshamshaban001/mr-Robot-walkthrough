@@ -86,7 +86,7 @@ back to the website ; login
 
 ![image](https://user-images.githubusercontent.com/52453415/128608434-aece7bf7-be2a-417d-8e21-2bff73ed977f.png)
 
-
+# getting shell
 checking the plugins 
 
 
